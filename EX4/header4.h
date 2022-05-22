@@ -1,0 +1,1 @@
+void permutari(int *v, int k, int n);
